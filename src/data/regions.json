@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Buenos Aires",
+    "deputies": 70,
+    "population": 15625084
+  },
+  {
+    "id": 2,
+    "name": "C.A.B.A.",
+    "deputies": 25,
+    "population": 2890151
+  },
+  {
+    "id": 3,
+    "name": "Córdoba",
+    "deputies": 18,
+    "population": 3308876
+  },
+  {
+    "id": 4,
+    "name": "Catamarca",
+    "deputies": 5,
+    "population": 367828
+  },
+  {
+    "id": 5,
+    "name": "Chaco",
+    "deputies": 7,
+    "population": 1055259
+  },
+  {
+    "id": 6,
+    "name": "Chubut",
+    "deputies": 5,
+    "population": 509108
+  },
+  {
+    "id": 7,
+    "name": "Corrientes",
+    "deputies": 7,
+    "population": 992595
+  },
+  {
+    "id": 8,
+    "name": "Entre Ríos",
+    "deputies": 9,
+    "population": 1235994
+  },
+  {
+    "id": 9,
+    "name": "Formosa",
+    "deputies": 5,
+    "population": 530162
+  },
+  {
+    "id": 10,
+    "name": "Jujuy",
+    "deputies": 6,
+    "population": 673307
+  },
+  {
+    "id": 11,
+    "name": "La Pampa",
+    "deputies": 5,
+    "population": 318951
+  },
+  {
+    "id": 12,
+    "name": "La Rioja",
+    "deputies": 5,
+    "population": 333642
+  },
+  {
+    "id": 13,
+    "name": "Mendoza",
+    "deputies": 10,
+    "population": 1738929
+  },
+  {
+    "id": 14,
+    "name": "Misiones",
+    "deputies": 7,
+    "population": 1101593
+  },
+  {
+    "id": 15,
+    "name": "Neuquén",
+    "deputies": 5,
+    "population": 551266
+  },
+  {
+    "id": 16,
+    "name": "Río Negro",
+    "deputies": 5,
+    "population": 638645
+  },
+  {
+    "id": 17,
+    "name": "Salta",
+    "deputies": 7,
+    "population": 1214441
+  },
+  {
+    "id": 18,
+    "name": "San Juan",
+    "deputies": 6,
+    "population": 681055
+  },
+  {
+    "id": 19,
+    "name": "San Luis",
+    "deputies": 5,
+    "population": 432310
+  },
+  {
+    "id": 20,
+    "name": "Santa Cruz",
+    "deputies": 5,
+    "population": 273964
+  },
+  {
+    "id": 21,
+    "name": "Santa Fe",
+    "deputies": 19,
+    "population": 3194537
+  },
+  {
+    "id": 22,
+    "name": "Santiago del Estero",
+    "deputies": 7,
+    "population": 874006
+  },
+  {
+    "id": 23,
+    "name": "Tierra del Fuego",
+    "deputies": 5,
+    "population": 127205
+  },
+  {
+    "id": 24,
+    "name": "Tucumán",
+    "deputies": 9,
+    "population": 1448188
+  }
+]

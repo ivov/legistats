@@ -1,0 +1,404 @@
+body {
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  margin: 0;
+}
+
+#root {
+  width: 100%;
+}
+
+header {
+  background-color: #5c97bc;
+  height: 40px;
+  position: relative;
+  z-index: 3;
+}
+
+#container-for-emblem-and-searchbox {
+  display: flex;
+  position: relative;
+  z-index: 3;
+  margin-bottom: -180px;
+}
+
+#container-for-emblem-and-searchbox > div {
+  margin-left: 15em;
+  height: 100px;
+  width: 200px;
+  background-color: #5c97bc;
+  border-radius: 15px;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  margin-left: 40px;
+  margin-top: 30px;
+  padding: 30px;
+  border-radius: 15px;
+  height: 40px;
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 200px;
+  border: 1px solid #dddddd;
+}
+
+#container-for-splash-image img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+/* Table */
+
+.table-area {
+  /* z-index: 1; */
+  padding-top: 20px;
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+table.legislators-table {
+  width: 780px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+tr {
+  line-height: 24px;
+  display: flex;
+  flex-direction: row;
+  margin: 5px 0;
+}
+
+.header-row {
+  background-color: #5c97bc;
+  color: white;
+  padding: 7px 0;
+  border-radius: 15px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+table .leg {
+  width: 280px;
+}
+
+.num {
+  text-align: center;
+  width: 80px;
+  margin: 0 20px;
+  border-radius: 25px;
+  text-align: center;
+}
+
+.green-circle {
+  background-color: #a3be8c;
+}
+
+.red-circle {
+  background-color: #bf616a;
+}
+
+.yellow-circle {
+  background-color: #ebcb8b;
+}
+
+.grey-circle {
+  background-color: #8fbcbb;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+table.legislators-table th:hover {
+  cursor: pointer;
+  color: black;
+}
+
+table.legislators-table td.selected,
+table.legislators-table td.leg:hover {
+  cursor: pointer;
+  background-color: #e6e6fa;
+  border-radius: 15px;
+}
+
+/* Spinner */
+
+.spinner {
+  background-color: #5c97bc;
+  color: white;
+  margin-top: 5px;
+  padding: 20px 0;
+  border-radius: 15px;
+  font-weight: bold;
+  height: 30px;
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Profile */
+
+.profile-area {
+  margin: 15px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  width: 780px;
+  background-color: #e6e6fa;
+  border-radius: 15px;
+  padding-bottom: 20px;
+  margin-bottom: 15px;
+}
+
+.first-profile-line {
+  display: flex;
+  flex-direction: row;
+  margin: 20px 20px 0 20px;
+  align-items: center;
+}
+
+.second-profile-line {
+  display: flex;
+  flex-direction: row;
+  margin: 20px 20px 0 20px;
+}
+
+.profile-name {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 20px;
+  color: #5e81ac;
+  width: 200px;
+  background-color: white;
+  border-radius: 15px;
+  margin-right: 40px;
+  height: 50px;
+}
+
+.profile-intro {
+  background-color: white;
+  border-radius: 15px;
+  font-size: 13px;
+  padding: 15px;
+  font-weight: bold;
+  line-height: 1.5;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 425px;
+}
+
+.profile-intro-paragraph {
+  background-color: white;
+  border-radius: 15px;
+  font-size: 13px;
+  padding: 15px;
+  line-height: 1.5;
+  align-items: center;
+  width: 425px;
+  text-align: center;
+}
+
+.profile-party-colleagues {
+  margin-top: 20px;
+  background-color: white;
+  border-radius: 15px;
+  font-size: 13px;
+  padding: 18px 30px;
+  height: 115px;
+}
+
+.profile-party-colleagues ul {
+  max-height: 80px;
+  overflow-y: auto;
+}
+
+.profile-intro-text {
+  margin-right: 20px;
+  width: 300px;
+  text-align: center;
+}
+
+.profile-photo img {
+  border-radius: 15px;
+  max-width: 250px;
+  margin-right: 40px;
+}
+
+.profile-flag img {
+  border-radius: 15px;
+  display: block;
+  max-height: 50px;
+  max-width: 75px;
+  border: 2px solid #e6e6fa;
+}
+
+.party,
+.region {
+  font-weight: bold;
+}
+
+.profile-party-colleagues-title {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+table.votes-table {
+  text-align: center;
+  background-color: white;
+  border-radius: 15px;
+  padding-bottom: 10px;
+}
+
+table.votes-table tr:nth-child(even) {
+  background: #e5e9f0;
+}
+
+.votes-table-header-row {
+  width: 730px;
+  padding: 7px 0;
+  margin: 8px 5px 0 5px;
+  color: #5e81ac;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 15px;
+}
+
+.votes-table-data-row {
+  padding: 10px 0;
+  margin: 8px 5px 0 5px;
+  display: flex;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.votes-table-date-column {
+  width: 170px;
+  margin-right: 10px;
+}
+
+.votes-table-voting-title-column {
+  width: 350px;
+  margin: 0 20px;
+}
+
+td.votes-table-voting-title-column {
+  line-height: 1.3;
+}
+
+.votes-table-vote-column {
+  width: 100px;
+  margin-left: 10px;
+}
+
+.rc-pagination {
+  margin-left: 20px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0;
+}
+
+.rc-pagination-prev,
+.rc-pagination-next {
+  background-color: white;
+}
+
+.rc-pagination-prev a,
+.rc-pagination-next a {
+  color: #5e81ac;
+}
+
+.icon {
+  padding-left: 10px;
+  font-size: 17px;
+  color: #5c97bc;
+  cursor: pointer;
+}
+
+.icon:hover {
+  color: black;
+}
+
+.third-profile-line {
+  background-color: white;
+  border-radius: 15px;
+  margin: 20px;
+  padding: 15px 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.info-for-pie-chart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title-for-chart {
+  color: white;
+  border-radius: 15px;
+  background-color: #5e81ac;
+  font-weight: bold;
+  margin-bottom: 15px;
+  padding: 12px;
+}
+
+.legend-for-chart {
+  display: flex;
+  flex-direction: row;
+}
+
+.num-for-chart,
+.pillnames-for-chart div {
+  margin: 5px 0;
+  line-height: 24px;
+}
+
+.num-for-chart {
+  width: 90px !important;
+}
+
+.pillnames-for-chart {
+  margin-left: 12px;
+  font-size: 12px;
+}
+
+.circle-reference {
+  font-size: 10px;
+  padding: 4px;
+  font-weight: bold;
+  border-radius: 25px;
+  border: 1px dotted grey;
+  margin: 7px 0;
+  width: 80px;
+  text-align: center;
+}

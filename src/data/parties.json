@@ -1,0 +1,1090 @@
+[
+  {
+    "id": 1,
+    "name": "Frente para la Victoria"
+  },
+  {
+    "id": 2,
+    "name": "Justicialista"
+  },
+  {
+    "id": 3,
+    "name": "Cruzada Renovadora"
+  },
+  {
+    "id": 4,
+    "name": "Autonomista de Corrientes"
+  },
+  {
+    "id": 5,
+    "name": "Unión Centro Democrático"
+  },
+  {
+    "id": 6,
+    "name": "Unión Cívica Radical"
+  },
+  {
+    "id": 7,
+    "name": "Intransigente"
+  },
+  {
+    "id": 8,
+    "name": "Frente Grande"
+  },
+  {
+    "id": 9,
+    "name": "Demócrata Progresista"
+  },
+  {
+    "id": 10,
+    "name": "MODIN"
+  },
+  {
+    "id": 11,
+    "name": "Demócrata de Mendoza"
+  },
+  {
+    "id": 12,
+    "name": "Alianza Acción Chaqueña"
+  },
+  {
+    "id": 13,
+    "name": "Movimiento Popular Fueguino"
+  },
+  {
+    "id": 14,
+    "name": "AL. H. T. E. (Socialista"
+  },
+  {
+    "id": 15,
+    "name": "Fuerza Republicana"
+  },
+  {
+    "id": 16,
+    "name": "Movimiento Popular Neuquino"
+  },
+  {
+    "id": 17,
+    "name": "Movimiento Popular Jujeño"
+  },
+  {
+    "id": 18,
+    "name": "Renovador de Salta"
+  },
+  {
+    "id": 19,
+    "name": "Liberal de Corrientes"
+  },
+  {
+    "id": 20,
+    "name": "Bloquista de San Juan"
+  },
+  {
+    "id": 21,
+    "name": "Mov. Integ. y Desarrollo"
+  },
+  {
+    "id": 22,
+    "name": "Conservador Popular"
+  },
+  {
+    "id": 23,
+    "name": "U. Socialista"
+  },
+  {
+    "id": 24,
+    "name": "Acción Chaqueña"
+  },
+  {
+    "id": 25,
+    "name": "Demócrata Cristiano"
+  },
+  {
+    "id": 26,
+    "name": "Mov. Peronista"
+  },
+  {
+    "id": 27,
+    "name": "Afirmación Peronista"
+  },
+  {
+    "id": 28,
+    "name": "Partido Federal"
+  },
+  {
+    "id": 29,
+    "name": "Desarrollista"
+  },
+  {
+    "id": 30,
+    "name": "No Integra Bloque"
+  },
+  {
+    "id": 31,
+    "name": "Partido Blanco"
+  },
+  {
+    "id": 32,
+    "name": "Mov. Soc. Trabajadores"
+  },
+  {
+    "id": 33,
+    "name": "Partido Intransigente"
+  },
+  {
+    "id": 34,
+    "name": ""
+  },
+  {
+    "id": 35,
+    "name": "P.A.I.S."
+  },
+  {
+    "id": 36,
+    "name": "Mov. Azul y Blanco"
+  },
+  {
+    "id": 37,
+    "name": "Participación y Justicia"
+  },
+  {
+    "id": 38,
+    "name": "Demócrata Cristiano Federal"
+  },
+  {
+    "id": 39,
+    "name": "FREPASO"
+  },
+  {
+    "id": 40,
+    "name": "Part. Prov. San Luis"
+  },
+  {
+    "id": 41,
+    "name": "Corriente Grande"
+  },
+  {
+    "id": 42,
+    "name": "Republicano Democrático"
+  },
+  {
+    "id": 43,
+    "name": "Independiente"
+  },
+  {
+    "id": 44,
+    "name": "Frente Nueva Dirigencia"
+  },
+  {
+    "id": 45,
+    "name": "Movimiento de Renovacion Civica"
+  },
+  {
+    "id": 46,
+    "name": "Politica Abierta"
+  },
+  {
+    "id": 47,
+    "name": "Partido Comunista"
+  },
+  {
+    "id": 48,
+    "name": "Linea Abierta"
+  },
+  {
+    "id": 49,
+    "name": "Partido Conservador Popular"
+  },
+  {
+    "id": 50,
+    "name": "Acción por la República"
+  },
+  {
+    "id": 51,
+    "name": "Frente Partido Nuevo"
+  },
+  {
+    "id": 52,
+    "name": "Desarrollo y Justicia"
+  },
+  {
+    "id": 53,
+    "name": "U. Ce. De."
+  },
+  {
+    "id": 54,
+    "name": "Frente Cívico Social"
+  },
+  {
+    "id": 55,
+    "name": "Movimiento Cívico y Social"
+  },
+  {
+    "id": 56,
+    "name": "U.B."
+  },
+  {
+    "id": 57,
+    "name": "Mov. Social Entrerriano"
+  },
+  {
+    "id": 58,
+    "name": "Frente Cívico y Social de Catamarca"
+  },
+  {
+    "id": 59,
+    "name": "Partido Demócrata por la Capital Federal"
+  },
+  {
+    "id": 60,
+    "name": "A.R.I"
+  },
+  {
+    "id": 61,
+    "name": "Frente para el Cambio"
+  },
+  {
+    "id": 62,
+    "name": "Partido Unidad Federalista"
+  },
+  {
+    "id": 63,
+    "name": "Alianza"
+  },
+  {
+    "id": 64,
+    "name": "Unidad Bonaerense"
+  },
+  {
+    "id": 65,
+    "name": "MO.RE.CI"
+  },
+  {
+    "id": 66,
+    "name": "Partido Socialista"
+  },
+  {
+    "id": 67,
+    "name": "Justicialista Nacional"
+  },
+  {
+    "id": 68,
+    "name": "Unión por Argentina"
+  },
+  {
+    "id": 69,
+    "name": "Polo Social"
+  },
+  {
+    "id": 70,
+    "name": "F.I.S.CA.L"
+  },
+  {
+    "id": 71,
+    "name": "Federal"
+  },
+  {
+    "id": 72,
+    "name": "Unidad Federalista"
+  },
+  {
+    "id": 73,
+    "name": "Demócrata de Capital Federal"
+  },
+  {
+    "id": 74,
+    "name": "Autodeterminación y Libertad"
+  },
+  {
+    "id": 75,
+    "name": "Izquierda Unida"
+  },
+  {
+    "id": 76,
+    "name": "Partido Socialista Popular"
+  },
+  {
+    "id": 77,
+    "name": "Frente del Movimiento Popular"
+  },
+  {
+    "id": 78,
+    "name": "Encuentro Popular"
+  },
+  {
+    "id": 79,
+    "name": "Frente Polo Social"
+  },
+  {
+    "id": 80,
+    "name": "Socialismo Popular"
+  },
+  {
+    "id": 81,
+    "name": "Interbloque Acción por la Repúbliica"
+  },
+  {
+    "id": 82,
+    "name": "Partido Nuevo Contra la Corrupción"
+  },
+  {
+    "id": 83,
+    "name": "Frente Popular Bonaerense"
+  },
+  {
+    "id": 84,
+    "name": "Partido de la Revolucion Democratica"
+  },
+  {
+    "id": 85,
+    "name": "Frente Renovador"
+  },
+  {
+    "id": 86,
+    "name": "Frente Proyecto Corrientes"
+  },
+  {
+    "id": 87,
+    "name": "M.M.T.A."
+  },
+  {
+    "id": 88,
+    "name": "Buenos Aires"
+  },
+  {
+    "id": 89,
+    "name": "Alianza Frente Alternativa Pampeana"
+  },
+  {
+    "id": 90,
+    "name": "Nuevo Espacio Entrerriano"
+  },
+  {
+    "id": 91,
+    "name": "Frente Cívico Tucumán"
+  },
+  {
+    "id": 92,
+    "name": "Emancipación y Justicia"
+  },
+  {
+    "id": 93,
+    "name": "Partido Nuevo"
+  },
+  {
+    "id": 94,
+    "name": "Fuerza Porteña"
+  },
+  {
+    "id": 95,
+    "name": "Recrear"
+  },
+  {
+    "id": 96,
+    "name": "Eva Perón"
+  },
+  {
+    "id": 97,
+    "name": "Compromiso para el Cambio"
+  },
+  {
+    "id": 98,
+    "name": "Bloque Unipersonal"
+  },
+  {
+    "id": 99,
+    "name": "Frente de Unidad Provincial"
+  },
+  {
+    "id": 100,
+    "name": "Convergencia"
+  },
+  {
+    "id": 101,
+    "name": "Recrear P\\ Crecimiento"
+  },
+  {
+    "id": 102,
+    "name": "F.F.J. Azul y Blanco"
+  },
+  {
+    "id": 103,
+    "name": "Encuentro"
+  },
+  {
+    "id": 104,
+    "name": "Soberania Popular"
+  },
+  {
+    "id": 105,
+    "name": "Bloque de los Trabajadores"
+  },
+  {
+    "id": 106,
+    "name": "Participación Ciudadana"
+  },
+  {
+    "id": 107,
+    "name": "Frente Norte"
+  },
+  {
+    "id": 108,
+    "name": "Ricardo Balbin"
+  },
+  {
+    "id": 109,
+    "name": "Peronista Federal"
+  },
+  {
+    "id": 110,
+    "name": "Vida y Compromiso"
+  },
+  {
+    "id": 111,
+    "name": "Propuesta Republicana"
+  },
+  {
+    "id": 112,
+    "name": "Proyecto Corrientes"
+  },
+  {
+    "id": 113,
+    "name": "Peronismo Federal"
+  },
+  {
+    "id": 114,
+    "name": "Concertación Entrerriana"
+  },
+  {
+    "id": 115,
+    "name": "Izquierda Socialista - Frente de Izquierda"
+  },
+  {
+    "id": 116,
+    "name": "Frente Producción y Trabajo"
+  },
+  {
+    "id": 117,
+    "name": "Red de Encuentro Social"
+  },
+  {
+    "id": 118,
+    "name": "Frente Prog. Civico y Social"
+  },
+  {
+    "id": 119,
+    "name": "Frente Cívico por Santiago"
+  },
+  {
+    "id": 120,
+    "name": "La Argentina de los Valores"
+  },
+  {
+    "id": 121,
+    "name": "Recrear -- Tucumán"
+  },
+  {
+    "id": 122,
+    "name": "TEST1"
+  },
+  {
+    "id": 123,
+    "name": "Movimiento Pampa Sur"
+  },
+  {
+    "id": 124,
+    "name": "Nacional Sindical"
+  },
+  {
+    "id": 125,
+    "name": "Frente de Todos"
+  },
+  {
+    "id": 126,
+    "name": "Movimiento Independiente"
+  },
+  {
+    "id": 127,
+    "name": "Propuesta Peronista"
+  },
+  {
+    "id": 128,
+    "name": "Guardia Peronista"
+  },
+  {
+    "id": 129,
+    "name": "Peronista"
+  },
+  {
+    "id": 130,
+    "name": "Unión Peronista"
+  },
+  {
+    "id": 131,
+    "name": "De la Concertación"
+  },
+  {
+    "id": 132,
+    "name": "Frente Justicia Unión y Libertad"
+  },
+  {
+    "id": 133,
+    "name": "Coalición Cívica - ARI - GEN - UPT"
+  },
+  {
+    "id": 134,
+    "name": "Unión Celeste y Blanca"
+  },
+  {
+    "id": 135,
+    "name": "Partido Liberal de Corrientes"
+  },
+  {
+    "id": 136,
+    "name": "Encuentro Popular y Social"
+  },
+  {
+    "id": 137,
+    "name": "A.R.I Autónomo 8 +"
+  },
+  {
+    "id": 138,
+    "name": "Diálogo por Buenos Aires"
+  },
+  {
+    "id": 139,
+    "name": "Frente Cívico y Social"
+  },
+  {
+    "id": 140,
+    "name": "Recrear para el Crecimiento"
+  },
+  {
+    "id": 141,
+    "name": "Dignidad Peronista"
+  },
+  {
+    "id": 142,
+    "name": "Proyecto Sur"
+  },
+  {
+    "id": 143,
+    "name": "Memoria y Democracia"
+  },
+  {
+    "id": 144,
+    "name": "Bloque por la Verdad"
+  },
+  {
+    "id": 145,
+    "name": "Mov. de Bases Independientes"
+  },
+  {
+    "id": 146,
+    "name": "Peronismo Peronista"
+  },
+  {
+    "id": 147,
+    "name": "Dignidad y Justicia"
+  },
+  {
+    "id": 148,
+    "name": "Consenso Federal"
+  },
+  {
+    "id": 149,
+    "name": "Unión Celeste y Blanco"
+  },
+  {
+    "id": 150,
+    "name": "Solidaridad e Igualdad (SI - ARI (T.D.F"
+  },
+  {
+    "id": 151,
+    "name": "Frente para la Victoria - Partido Bloqui"
+  },
+  {
+    "id": 152,
+    "name": "Frente por los Derechos Ciudadanos"
+  },
+  {
+    "id": 153,
+    "name": "Bs. As. para Todos en Proyecto Sur"
+  },
+  {
+    "id": 154,
+    "name": "Partido de la Concertación - FORJA"
+  },
+  {
+    "id": 155,
+    "name": "Justicialismo Republicano"
+  },
+  {
+    "id": 156,
+    "name": "Santa Fe Federal"
+  },
+  {
+    "id": 157,
+    "name": "GEN"
+  },
+  {
+    "id": 158,
+    "name": "Convergencia Federal"
+  },
+  {
+    "id": 159,
+    "name": "Proyecto Progresista"
+  },
+  {
+    "id": 160,
+    "name": "Solidaridad e Igualdad (SI"
+  },
+  {
+    "id": 161,
+    "name": "Trabajo y Dignidad"
+  },
+  {
+    "id": 162,
+    "name": "Corriente Peronista Federal"
+  },
+  {
+    "id": 163,
+    "name": "Valores para mi País"
+  },
+  {
+    "id": 164,
+    "name": "Peronista Salteño"
+  },
+  {
+    "id": 165,
+    "name": "Peronismo Jujeño"
+  },
+  {
+    "id": 166,
+    "name": "Buenos Aires por el Cambio"
+  },
+  {
+    "id": 167,
+    "name": "Solidaridad e Igualdad (SI - Proyecto P"
+  },
+  {
+    "id": 168,
+    "name": "Frente Cívico - Córdoba"
+  },
+  {
+    "id": 169,
+    "name": "Movimiento Proyecto Sur"
+  },
+  {
+    "id": 170,
+    "name": "Peronista Córdoba Ciudadana"
+  },
+  {
+    "id": 171,
+    "name": "Coalición Cívica"
+  },
+  {
+    "id": 172,
+    "name": "Nuevo Encuentro Popular y Solidario"
+  },
+  {
+    "id": 173,
+    "name": "Bloque Social Patagónico"
+  },
+  {
+    "id": 174,
+    "name": "SI por la Unidad Popular"
+  },
+  {
+    "id": 175,
+    "name": "Libres del Sur"
+  },
+  {
+    "id": 176,
+    "name": "Partido Federal Fueguino"
+  },
+  {
+    "id": 177,
+    "name": "Córdoba Federal"
+  },
+  {
+    "id": 178,
+    "name": "Corriente de Pensamiento Federal"
+  },
+  {
+    "id": 179,
+    "name": "Salta Somos Todos"
+  },
+  {
+    "id": 180,
+    "name": "Partido Justicialista La Pampa"
+  },
+  {
+    "id": 181,
+    "name": "Frente Peronista Federal"
+  },
+  {
+    "id": 182,
+    "name": "Frente Peronista"
+  },
+  {
+    "id": 183,
+    "name": "Partido Bloquista de San Juan"
+  },
+  {
+    "id": 184,
+    "name": "U.De.So. Salta"
+  },
+  {
+    "id": 185,
+    "name": "Unión por Todos"
+  },
+  {
+    "id": 186,
+    "name": "Diálogo y Trabajo"
+  },
+  {
+    "id": 187,
+    "name": "Unidad Popular"
+  },
+  {
+    "id": 188,
+    "name": "Nuevo Encuentro"
+  },
+  {
+    "id": 189,
+    "name": "Unión por San Juan"
+  },
+  {
+    "id": 190,
+    "name": "Del Bicentenario"
+  },
+  {
+    "id": 191,
+    "name": "Unidad para el Desarrollo Social y la Equidad"
+  },
+  {
+    "id": 192,
+    "name": "Socialista del MIJD"
+  },
+  {
+    "id": 193,
+    "name": "Democracia Igualitaria y Participativa"
+  },
+  {
+    "id": 194,
+    "name": "Nucleo Unidad Peronista"
+  },
+  {
+    "id": 195,
+    "name": "Unidos por una Nueva Argentina"
+  },
+  {
+    "id": 196,
+    "name": "Santa Fe en Movimiento"
+  },
+  {
+    "id": 197,
+    "name": "Compromiso Federal"
+  },
+  {
+    "id": 198,
+    "name": "Juntos por Argentina"
+  },
+  {
+    "id": 199,
+    "name": "Fe"
+  },
+  {
+    "id": 200,
+    "name": "Cultura, Educación y Trabajo"
+  },
+  {
+    "id": 201,
+    "name": "Frente por la Inclusión Social"
+  },
+  {
+    "id": 202,
+    "name": "Peronismo mas al Sur"
+  },
+  {
+    "id": 203,
+    "name": "El Chacho"
+  },
+  {
+    "id": 204,
+    "name": "Bloque Unipersonal Cultura, Educación y Trabajo"
+  },
+  {
+    "id": 205,
+    "name": "Frente Renovador Peronista"
+  },
+  {
+    "id": 206,
+    "name": "Unión PRO"
+  },
+  {
+    "id": 207,
+    "name": "UNIR"
+  },
+  {
+    "id": 208,
+    "name": "Fte. Cívico y Social de Catamarca"
+  },
+  {
+    "id": 209,
+    "name": "Coalición Cívica - ARI - UNEN"
+  },
+  {
+    "id": 210,
+    "name": "SUMA + UNEN"
+  },
+  {
+    "id": 211,
+    "name": "Unión por Córdoba"
+  },
+  {
+    "id": 212,
+    "name": "Unión por Entre Ríos"
+  },
+  {
+    "id": 213,
+    "name": "PTS - Frente de Izquierda"
+  },
+  {
+    "id": 214,
+    "name": "Fte. Renov. de la Conc. Misiones - FPV-PJ"
+  },
+  {
+    "id": 215,
+    "name": "Fte. de Izquierda y de los Trabajadores"
+  },
+  {
+    "id": 216,
+    "name": "Movimiento Solidario Popular"
+  },
+  {
+    "id": 217,
+    "name": "Libertad, Valores y Cambios"
+  },
+  {
+    "id": 218,
+    "name": "BG Juan B. Bustos"
+  },
+  {
+    "id": 219,
+    "name": "Social Cristiano"
+  },
+  {
+    "id": 220,
+    "name": "Solidario SI"
+  },
+  {
+    "id": 221,
+    "name": "Movimiento Nacional Alfonsinista"
+  },
+  {
+    "id": 222,
+    "name": "Libertad y Democracia"
+  },
+  {
+    "id": 223,
+    "name": "Partido Demócrata Progresista"
+  },
+  {
+    "id": 224,
+    "name": "Federal Unidos por una Nueva Argentina"
+  },
+  {
+    "id": 225,
+    "name": "Peronismo para la Victoria"
+  },
+  {
+    "id": 226,
+    "name": "Frente de la Concordia Misionero"
+  },
+  {
+    "id": 227,
+    "name": "Primero Tucumán"
+  },
+  {
+    "id": 228,
+    "name": "Concertación FORJA"
+  },
+  {
+    "id": 229,
+    "name": "Compromiso con San Juan"
+  },
+  {
+    "id": 230,
+    "name": "Avanzar San Luis"
+  },
+  {
+    "id": 231,
+    "name": "Chubut Somos Todos"
+  },
+  {
+    "id": 232,
+    "name": "PRO"
+  },
+  {
+    "id": 233,
+    "name": "Todos Juntos por San Juan"
+  },
+  {
+    "id": 234,
+    "name": "Partido por la Justicia Social"
+  },
+  {
+    "id": 235,
+    "name": "Evolución Radical"
+  },
+  {
+    "id": 236,
+    "name": "Somos Mendoza"
+  },
+  {
+    "id": 237,
+    "name": "Elijo Catamarca"
+  },
+  {
+    "id": 238,
+    "name": "Justicialista por Tucumán"
+  },
+  {
+    "id": 239,
+    "name": "Córdoba Trabajo y Producción"
+  },
+  {
+    "id": 240,
+    "name": "Somos San Juan"
+  },
+  {
+    "id": 241,
+    "name": "Partido Intransigente de Mendoza"
+  },
+  {
+    "id": 242,
+    "name": "Primero Argentina"
+  },
+  {
+    "id": 243,
+    "name": "Nuevo Espacio Santafesino"
+  },
+  {
+    "id": 244,
+    "name": "Unidad Justicialista"
+  },
+  {
+    "id": 245,
+    "name": "Red por Argentina"
+  },
+  {
+    "id": 246,
+    "name": "Frente Progresista Cívico y Social"
+  },
+  {
+    "id": 247,
+    "name": "Protectora"
+  },
+  {
+    "id": 248,
+    "name": "JUSTICIALISTA 8 DE OCTUBRE"
+  },
+  {
+    "id": 249,
+    "name": "PRODUCCIÓN Y TRABAJO"
+  },
+  {
+    "id": 250,
+    "name": "PJ FRENTE PARA LA VICTORIA"
+  },
+  {
+    "id": 251,
+    "name": "ESPERANZA FEDERAL"
+  },
+  {
+    "id": 252,
+    "name": "ALIANZA COALICIÓN CÍVICA"
+  },
+  {
+    "id": 253,
+    "name": "JUSTICIALISTA PARA EL DIALOGO DE LOS ARGENTINOS"
+  },
+  {
+    "id": 254,
+    "name": "FRENTE CIVICO DE LA PROVINCIA DE CORDOBA"
+  },
+  {
+    "id": 255,
+    "name": "JUSTICIALISTA SAN LUIS"
+  },
+  {
+    "id": 256,
+    "name": "PARTIDO RENOVADOR DE SALTA"
+  },
+  {
+    "id": 257,
+    "name": "PROYECTO BUENOS AIRES FEDERAL"
+  },
+  {
+    "id": 258,
+    "name": "FEDERALISMO SANTAFESINO"
+  },
+  {
+    "id": 259,
+    "name": "FEDERALISMO Y LIBERACIÓN"
+  },
+  {
+    "id": 260,
+    "name": "MISIONES"
+  },
+  {
+    "id": 261,
+    "name": "FRENTE PRO"
+  },
+  {
+    "id": 262,
+    "name": "PRO Y UNIÓN POR ENTRE RÍOS"
+  },
+  {
+    "id": 263,
+    "name": "RIO - FRENTE PROGRESISTA"
+  },
+  {
+    "id": 264,
+    "name": "PROYECTO SUR-UNEN"
+  },
+  {
+    "id": 265,
+    "name": "PARES"
+  },
+  {
+    "id": 266,
+    "name": "FRENTE POPULAR"
+  },
+  {
+    "id": 267,
+    "name": "PERONISMO TUCUMAN"
+  },
+  {
+    "id": 268,
+    "name": "JUSTICIALISTA CHUBUT"
+  },
+  {
+    "id": 269,
+    "name": "JUSTICIALISMO SAN LUIS"
+  },
+  {
+    "id": 270,
+    "name": "Movimiento Evita"
+  },
+  {
+    "id": 271,
+    "name": "Somos"
+  },
+  {
+    "id": 272,
+    "name": "Izquierda Socialista - FIT"
+  }
+]
