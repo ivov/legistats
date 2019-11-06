@@ -38,14 +38,3 @@ declare type votings = Array<{
 }>;
 
 declare type PieChartData = Array<{ name: string; value: number }>;
-
-declare namespace NodeJS {
-  export interface ProcessEnv {
-    REACT_APP_DEV_CONNSTRING: string;
-  }
-}
-
-declare module "*.json" {
-  const value: any;
-  export default value;
-}
