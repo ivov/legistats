@@ -43,8 +43,8 @@ class App extends Component<{}, AppState> {
 
   onSuggestionSelect(suggestion) {
     this.setState({
-      activeLegislator: suggestion.legislatorName,
-      searchTerm: suggestion.legislatorName
+      activeLegislator: suggestion.fullName,
+      searchTerm: suggestion.fullName
     });
   }
 

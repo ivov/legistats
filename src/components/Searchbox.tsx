@@ -46,7 +46,7 @@ class Searchbox extends Component<SearchboxProps, SearchboxState> {
   }
 
   renderSuggestion = suggestion => {
-    return <div>{suggestion.legislatorName}</div>;
+    return <div>{suggestion.fullName}</div>;
   };
 
   onSuggestionsClearRequested = () => {
@@ -76,7 +76,7 @@ class Searchbox extends Component<SearchboxProps, SearchboxState> {
           inputProps={inputProps}
           suggestions={suggestions}
           onSuggestionsFetchRequested={this.onSuggestionsFetchRequested}
-          getSuggestionValue={suggestion => suggestion.legislatorName}
+          getSuggestionValue={suggestion => suggestion.fullName}
           renderSuggestion={this.renderSuggestion}
           shouldRenderSuggestions={this.shouldRenderSuggestions}
           onSuggestionSelected={this.onSuggestionSelected}
