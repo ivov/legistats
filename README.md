@@ -45,7 +45,7 @@ Since this is a frontend-only project, data is simply stored as JSON, with two e
 
 1. Install [Node](https://nodejs.org/en/download/) and clone repo
 2. Get dependencies: `npm install`
-3. Run server and client: `npm run start`
+3. Run: `npm run start`
 
 ## Operation
 
